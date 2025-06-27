@@ -25,15 +25,14 @@ Language: C++
 
 Library: SFML (Simple and Fast Multimedia Library)
 
-Tools: Any C++ IDE or text editor, CMake (optional), SFML setup
+Tools: Any C++ IDE or text editor, SFML setup
 
-(يمكنك إضافة صور هنا لاحقًا من اللعبة
 🔧 How to Run:
 Make sure SFML is installed and configured correctly.
 
 Clone the repository:
 
-git clone https://github.com/your-username/dino-game-cpp-sfml.git
+git clone https://github.com/Hager-ali191/Google-Dinosaur.git
 Compile the project using your preferred IDE or command-line tools.
 
 Run the executable and enjoy!
